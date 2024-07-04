@@ -1,0 +1,6 @@
+So, for part 4 of the project, I created the "jiffies.c" and "seconds.c" files. I also used "Makefile", but simply changed 
+the line on top to work with all of my different files. For the first line, I currently have it ending with "seconds.o" to 
+work with the seconds.c file, but I could also change "seconds.o" to "simple.o", "hello.o", or "jiffies.o" depending on 
+which file I wanted to work with at the time. In this case, I have multiple lines on top which should let you test out a 
+single C file at a time without having to go back and edit the file. I have tested this on the premade virtual machine and 
+it should work.
