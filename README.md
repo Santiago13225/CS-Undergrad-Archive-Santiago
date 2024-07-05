@@ -1,4 +1,5 @@
-CS-Undergrad-Archive-Santiago
+# CS-Undergrad-Archive-Santiago
+
 Description:
 This repository is an archive of documents saved from my undergraduate studies at Sacramento State University. It holds various slides, reading materials, and possibly even some assignments from the classes I took as a Computer Science major.
 
