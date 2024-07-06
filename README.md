@@ -70,3 +70,5 @@ PHIL 103 - Mill-All minus one.pdf
 PHIL 117 - Heidegger Reading.pdf
 
 PHIL 117 - Ortega History as a System.pdf
+
+PHYS 11A - Randall D. Knight - Physics for Scientists and Engineers_ A Strategic Approach with Modern Physics (2016, Pearson) - libgen.lc.pdf
