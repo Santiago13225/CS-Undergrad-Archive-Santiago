@@ -13,4 +13,11 @@ You may use this repository to...
 Contributions are not allowed here! You may download from the archive and view it as you wish, but please do not delete or change anything!
 
 ## Missing Files:
-...
+CSC 130 Ouyang - Robert Sedgewick, Kevin Wayne - Algorithms, 4th Edition_ Essential Information about Algorithms and Data Structures-Addison-Wesley (2011).pdf
+CSC 133 - CN1-Developer_Guide-v_3_6.pdf
+CSC 133 - Zhigang Xiang, Roy A. Plastock - Schaum’s Outline of Computer Graphics-McGraw-Hill Education (2000).pdf
+CSC 133 - eclipse-java-2022-03-R-win32-x86_64 folder
+CSC 134 - CSC134_Note01-06.pdf
+CSC 135 - hefferon.theory.9999.pdf
+CSC 139 - ch2.pdf
+CSC 177 - 
