@@ -47,6 +47,8 @@ ECON 1B - Lee Coppock, Dick Mateer - Principles of Microeconomics.pdf
 
 ECON 1B - ECON 1B Final Exam Practice.mp4
 
+ECON !B - 7. econ2.pptx
+
 ENGL 20 - what-we-do-explainer-copy (1).mp4
 
 GPHD 05 folder
@@ -60,3 +62,7 @@ MATH 31 - James Stewart - Calculus_ Early Transcendentals-Cengage Learning (2015
 MATH 100 - David C. Lay - Linear Algebra and Its Applications (4th Edition) (2011, Addison Wesley _ Pearson) - libgen.lc.pdf
 
 MATH 150 - David Kincaid, Ward Cheney - Numerical Analysis Mathematics of Scientific Computing (2002, American Mathematical Society) - libgen.lc.pdf
+
+PHIL 04 Lectures folder
+
+
