@@ -1,4 +1,4 @@
-// CSE 142 Homework 8 (Critters)
+// CSE 142 Critters
 // Authors: Marty Stepp and Stuart Reges
 //
 // This class defines the methods necessary for an animal to be part of the simulation.
@@ -8,7 +8,7 @@
 //
 import java.awt.*; // for Color
 
-public class Critter {
+public abstract class Critter {
 	// The following five methods are the ones you must implement for your assignment.
 	// I'm not going to comment them because that's your job.
 
@@ -33,14 +33,14 @@ public class Critter {
 	}
 
 
-	// I use these fields to implement the methods below such as getX and getNeighbor.
-	private int x;
-	private int y;
-	private int width;
-	private int height;
-	private boolean alive = true;
-	private boolean awake = true;
-	private final String[] neighbors = {" ", " ", " ", " ", " "};
+    // I use these fields to implement the methods below such as getX and getNeighbor.
+    private int x;
+    private int y;
+    private int width;
+    private int height;
+    private boolean alive = true;
+    private boolean awake = true;
+    private final String[] neighbors = {" ", " ", " ", " ", " "};
 
 	// constants for directions
 	public static enum Direction {
@@ -82,7 +82,7 @@ public class Critter {
 	public final int getY() {
 		return y;
 	}
-
+	
 	// Returns true if this animal is currently alive.
 	// This will return false if this animal has lost a fight and died.
 	public final boolean isAlive() {
@@ -160,10 +160,10 @@ public class Critter {
 
 	// called when the game world is reset
 	public void reset() {}
-
+	
 	// called when your critter mates with another critter
 	public void mate() {}
-
+	
 	// called when your critter is done mating with another critter
 	public void mateEnd() {}
 }
