@@ -1,0 +1,6 @@
+MATH[[:space:]]30/Math30-10-3_20.mp4 filter=lfs diff=lfs merge=lfs -text
+MATH[[:space:]]100/David[[:space:]]C.[[:space:]]Lay[[:space:]]-[[:space:]]Linear[[:space:]]Algebra[[:space:]]and[[:space:]]Its[[:space:]]Applications[[:space:]](4th[[:space:]]Edition)[[:space:]](2011,[[:space:]]Addison[[:space:]]Wesley[[:space:]]_[[:space:]]Pearson)[[:space:]]-[[:space:]]libgen.lc.pdf filter=lfs diff=lfs merge=lfs -text
+MATH[[:space:]]150/David[[:space:]]Kincaid,[[:space:]]Ward[[:space:]]Cheney[[:space:]]-[[:space:]]Numerical[[:space:]]Analysis[[:space:]]Mathematics[[:space:]]of[[:space:]]Scientific[[:space:]]Computing[[:space:]](2002,[[:space:]]American[[:space:]]Mathematical[[:space:]]Society)[[:space:]]-[[:space:]]libgen.lc.pdf filter=lfs diff=lfs merge=lfs -text
+GPHD[[:space:]]05/gphd5_25[[:space:]]final[[:space:]]review.pdf filter=lfs diff=lfs merge=lfs -text
+PHIL[[:space:]]103/Mill-All[[:space:]]minus[[:space:]]one.pdf filter=lfs diff=lfs merge=lfs -text
+ENGL[[:space:]]20/what-we-do-explainer-copy[[:space:]](1).mp4 filter=lfs diff=lfs merge=lfs -text
