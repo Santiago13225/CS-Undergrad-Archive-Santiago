@@ -1,5 +1,5 @@
-![CS-Undergrad-Archive-Santiago](https://github.com/Santiago13225/CS-Undergrad-Archive-Santiago/assets/69102034/1ac3672c-fff6-4f72-bd05-6e2578612438)
 # CS-Undergrad-Archive-Santiago
+![books_library_shelves_138556_1366x768](https://github.com/user-attachments/assets/2ad9b57f-48c5-4ab9-9736-5b82663448b5)
 
 ## Overview:
 This repository serves as an archive of documents saved from my undergraduate studies at Sacramento State University. It holds various slides, reading materials, and possibly even some assignments from the courses I completed as a Computer Science major.
