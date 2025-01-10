@@ -64,9 +64,9 @@ Please, feel free to download and view the materials as needed. Please note that
 There are currently two missing directories. One for ENGL 5 and one for HIST 17B. Please note that these two classes were held without the use of Canvas or any other online learning management systems. As such, there was hardly any material that could be saved from either class as both courses used an offline approach when it came to instruction.
 
 ## Fun Fact:
-Question: How much storage would a four-year education for computer science majors take up?
+Question: How much digital memory or storage would a four-year education for computer science majors take up?
 
-Answer: My best answer as of now would have to be somewhere over 5.87 gigabytes. I am saying over 5.87 gigabytes because this repository does not include two of my classes. It also does not include my handwritten notes or the information that I could not store from all of the lectures I have had. There is also the question of what really counts towards that storage total. Does the storage size of any application or program used to write code or work on a project count towards that total? I don't know. Maybe someone can come up with a better answer than me. 
+Answer: My best answer as of now would have to be somewhere over 5.87 gigabytes. I am saying over 5.87 gigabytes because this repository does not include two of my classes. It also does not include my handwritten notes or the information that I could not store from all of the lectures I have had. There is also the question of what really counts towards that storage total. Does the storage size of any application or program used to write code or work on a project count towards that total? I don't know. Maybe someone can come up with a better answer than me.
 
 ### How did I determine this? 
 
